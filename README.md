@@ -1,17 +1,13 @@
-# ODIA VoiceCRM Parallax AI Site
+# ODIAAA Voice Agent – Regenerated
 
-This is a 2025-grade Webflow-style voice-first CRM onboarding page, powered by Lexi AI and integrated with n8n and Flutterwave.
+✅ Claude Sonnet 4-powered Nigerian Voice AI Agent  
+✅ Built for n8n, ElevenLabs, and Vercel deployments  
+✅ Includes multilingual logic (Yoruba, Igbo, Hausa, English)  
+✅ Tracks session, context, audio response, and analytics
 
-## 🚀 Deployment (Vercel)
+## 📦 Files Included
+- `odia-voice-ai-workflow.json`: Full n8n Claude-based workflow
+- `voice-agent-test.json`: Sample POST test file
 
-1. Push this repo to GitHub
-2. Import it into [vercel.com](https://vercel.com/new)
-3. Add your custom domain: `voicecrm.odia.ltd`
-4. Setup the environment variables from `.env.template`
-
-## 🎤 Features
-
-- Voice onboarding using Lexi API
-- Real-time automation via n8n webhook
-- Payment trigger via Flutterwave
-
+## 🌍 Endpoint Example
+`POST https://n8n.odia.ltd/webhook/tribesquare-agent`
